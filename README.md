@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### * Seong Joon Hee
+#####   Seong Joon Hee
 ##### * 2003.02.02
 ##### * Double-majored in Computer Engineering (COMPSCI) and Computer Security Engineering
 <hr>
@@ -21,7 +21,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 
-
+</br>
+</br>
 
 
 ### 📑 Docs
@@ -31,7 +32,8 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=000000)
 
-
+</br>
+</br>
 
 
 ### 🏫 Studying At College__
@@ -51,7 +53,8 @@
  ||||
 </div>
 
-
+</br>
+</br>
 
 
 ### 📱 Social Network
