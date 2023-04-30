@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### Studying At College__
 //<div align=center>
 <div>
+
   |Title|Sec|Tech|
 |:---:|:---:|:---:|
 |Python Programming|1|Python|
