@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 
 
 ### Studying
-*AT COLLEGE*
+*At College__*
 <div align=center>
-
   |Title|Sec|Tech|
 |:---:|:---:|:---:|
 |Python Programming|1|Python|
@@ -53,16 +52,15 @@ Here are some ideas to get you started:
 |Data Structure|3|C++|
 |Computer System Adiministration|3|Linux|
 |Computer Architecture|3|Linux|
-||||
+</div> ||||
 
-</div>
 
 
 
 ### Social Network
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Blog](https://img.shields.io/badge/NaverBlog-3DDC84?style=for-the-badge&logo=Naver&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-![Blog](https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Naver&logoColor=white)
 
 
