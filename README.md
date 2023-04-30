@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-/////////////////////////////////////////////////////
-
-![header]()
-
-> 
 <hr>
   
 ### Coding
@@ -46,9 +39,8 @@ Here are some ideas to get you started:
 
 
 ### Studying
-
-<div align=center>
 *AT COLLEGE*
+<div align=center>
 
   |Title|Sec|Tech|
 |:---:|:---:|:---:|
