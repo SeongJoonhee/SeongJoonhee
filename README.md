@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### Studying
 <div align=center>
-  *At College__*
+  At College__
 
   |Title|Sec|Tech|
 |:---:|:---:|:---:|
