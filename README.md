@@ -4,8 +4,6 @@
 ##### 2003.02.02
 ##### Double-majored in Computer Engineering (COMPSCI) and Computer Security Engineering
 <hr>
-<hr>
-<hr>
 
   
 ### 💻 Tech Stack
