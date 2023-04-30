@@ -40,9 +40,11 @@ Here are some ideas to get you started:
 
 ### Studying
 <div align=center>
-*At College__*
-|Title|Sec|Tech|
+  *At College__*
+
+  |Title|Sec|Tech|
 |:---:|:---:|:---:|
+
 |Python Programming|1|Python|
 |Programming and Solution|1|Python|
 |Web Programming|1|HTML5, CSS, JavaScript|
