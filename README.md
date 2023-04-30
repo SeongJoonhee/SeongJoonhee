@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr>
   
-### Coding
+### 💻 Coding
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
@@ -19,7 +19,7 @@
 
 
 
-### Docs
+### 📑 Docs
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -29,7 +29,7 @@
 
 
 
-### Studying At College__
+### 🏫 Studying At College__
 <div>
 
   |Title|Sec|Tech|
@@ -49,7 +49,7 @@
 
 
 
-### Social Network
+### 📱 Social Network
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Blog](https://img.shields.io/badge/NaverBlog-3DDC84?style=for-the-badge&logo=Naver&logoColor=white)
