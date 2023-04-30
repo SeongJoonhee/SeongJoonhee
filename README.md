@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### Studying
 <div align=center>
 *At College__*
-  |Title|Sec|Tech|
+|Title|Sec|Tech|
 |:---:|:---:|:---:|
 |Python Programming|1|Python|
 |Programming and Solution|1|Python|
@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 |Data Structure|3|C++|
 |Computer System Adiministration|3|Linux|
 |Computer Architecture|3|Linux|
-</div> ||||
+ ||||
+</div>
 
 
 
