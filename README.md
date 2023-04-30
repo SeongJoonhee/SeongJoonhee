@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
   |Title|Sec|Tech|
 |:---:|:---:|:---:|
-
 |Python Programming|1|Python|
 |Programming and Solution|1|Python|
 |Web Programming|1|HTML5, CSS, JavaScript|
