@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=000000)
 
 
-### Studying
+### Studying At College__
 <div align=center>
-  At College__
 
   |Title|Sec|Tech|
 |:---:|:---:|:---:|
