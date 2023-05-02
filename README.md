@@ -2,7 +2,7 @@
 
 #####   Seong Joon Hee
 ##### * 2003.02.02
-##### * Double-majored in Computer Engineering (COMPSCI) and Computer Security Engineering
+##### * Double-majored in Computer Engineering (COMPSCI) and Cyber Security
 <hr>
 
   
